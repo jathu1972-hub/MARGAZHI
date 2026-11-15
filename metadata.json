@@ -1,0 +1,8 @@
+{
+  "name": "MARGAZHI",
+  "description": "MARGAZHI — 28th Annual December Music Festival 2026 by Sri Rama Bhaktha Jana Samaj. Official schedule, multi-date seat booking, digital QR tickets, and festival administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
